@@ -1,0 +1,16 @@
+node_modules
+dist
+.env
+*.log
+screenshots/
+qa-shots/
+output/
+.gev-logs/
+.aetheris-logs/
+.gev-cache/
+.aetheris-cache/
+.DS_Store
+.gstack/
+3d-models/
+*.code-workspace
+
